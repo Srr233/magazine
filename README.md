@@ -1,0 +1,1 @@
+Magazine with techs: NodeJS, Express, MySQL, JWT, CRUD API, CSS, HTML5
